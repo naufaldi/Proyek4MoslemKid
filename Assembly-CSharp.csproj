@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5E8201D1-F05F-8057-8763-4C9C41164DC5}</ProjectGuid>
+    <ProjectGuid>{427B1273-3E5F-4A3E-AD91-9E8F588DD976}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -67,7 +67,7 @@
      <None Include="Assets\doa\kumpulan doa.txt" />
      <None Include="Assets\FootstepsSoundsCarpetPack\FootstepsSoundsCarpetPackInfo.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>F:/5. Semester 5/Praktikum Multimedia dan Game/Model_H/Proyek 4 MoslemKid/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>F:/5. Semester 5/Praktikum Multimedia dan Game/Proyek4MoslemKid/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -76,12 +76,12 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="ArabicSupport">
- <HintPath>F:/5. Semester 5/Praktikum Multimedia dan Game/Model_H/Proyek 4 MoslemKid/Assets/ArabicSupport/Plugins/ArabicSupport.dll</HintPath>
+ <HintPath>F:/5. Semester 5/Praktikum Multimedia dan Game/Proyek4MoslemKid/Assets/ArabicSupport/Plugins/ArabicSupport.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{5193B4F3-0274-878B-A81D-3E3ECC5CF13A}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{3F61EA28-EB73-CCCA-FB28-FCC92E663487}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

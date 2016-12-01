@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5193B4F3-0274-878B-A81D-3E3ECC5CF13A}</ProjectGuid>
+    <ProjectGuid>{3F61EA28-EB73-CCCA-FB28-FCC92E663487}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -55,7 +55,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="ArabicSupport">
- <HintPath>F:/5. Semester 5/Praktikum Multimedia dan Game/Model_H/Proyek 4 MoslemKid/Assets/ArabicSupport/Plugins/ArabicSupport.dll</HintPath>
+ <HintPath>F:/5. Semester 5/Praktikum Multimedia dan Game/Proyek4MoslemKid/Assets/ArabicSupport/Plugins/ArabicSupport.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
