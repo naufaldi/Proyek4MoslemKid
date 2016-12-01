@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\umah\Door\Iki Om\GameController.cs">
+    <Files>
+      <File FileName="Assets\umah\Door\Iki Om\GameController.cs" Line="27" Column="21" />
+      <File FileName="Assets\umah\Door\Iki Om\Soal\scriptButtonQuitMakan.cs" Line="1" Column="1" />
+      <File FileName="Assets\umah\Door\Iki Om\Soal\scriptButtonQuitMushola.cs" Line="1" Column="1" />
+      <File FileName="Assets\umah\Door\dapur.js" Line="1" Column="1" />
+      <File FileName="Assets\doa\prefab\MainLagi.cs" Line="11" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/moslemkid3d.unity
+  isLoaded: 1
+  isActive: 1
